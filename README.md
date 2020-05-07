@@ -2,6 +2,7 @@ Maven - Spring 3 MVC Hello World to TEST CI
 ===============================
 Template for Spring 3 MVC + JSP view + XML configuration, using Maven build tool.
 
+
 ###1. Technologies used
 * Maven 3
 * Spring 3.2.13.RELEASE
